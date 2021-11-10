@@ -1,4 +1,4 @@
-package com.example.study_springwebflux.routeHandler;
+package com.example.study_springwebflux.RouteFunction.routeHandler;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

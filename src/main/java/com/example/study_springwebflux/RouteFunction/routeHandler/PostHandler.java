@@ -1,4 +1,4 @@
-package com.example.study_springwebflux.routeHandler;
+package com.example.study_springwebflux.RouteFunction.routeHandler;
 
 import org.springframework.http.MediaType;
 import org.springframework.stereotype.Component;

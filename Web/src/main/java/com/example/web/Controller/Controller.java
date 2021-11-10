@@ -10,9 +10,6 @@ public class Controller {
 
   @GetMapping("/web")
   public String Web() {
-    for (int i = 0; i < 3; i++) {
-      log.info("web");
-    }
     return "Hello Web!!";
   }
 }

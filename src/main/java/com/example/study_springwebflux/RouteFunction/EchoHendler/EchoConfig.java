@@ -1,4 +1,4 @@
-package com.example.study_springwebflux.EchoHendler;
+package com.example.study_springwebflux.RouteFunction.EchoHendler;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.web.reactive.function.server.RouterFunction;

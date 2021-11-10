@@ -1,4 +1,4 @@
-package com.example.study_springwebflux.routeHandler;
+package com.example.study_springwebflux.RouteFunction.routeHandler;
 
 public class Post {
   private Long id;
